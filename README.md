@@ -1,0 +1,2 @@
+# dedikg-simsur
+dokumentasi simsur
